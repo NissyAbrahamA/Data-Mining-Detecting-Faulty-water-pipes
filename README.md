@@ -1,1 +1,3 @@
 # Data-Mining-Detecting-Faulty-water-pipes
+
+we performed a data mining exercise with Tanzanian water data. several experiments were conducted and found the best performing model the problem.  The XG Boost model outperformed other models in predicting faulty water pipes. It achieved an impressive ROC AUC of 89% and an accuracy of 81%. These results demonstrate the model's strong ability to differentiate between faulty and non-faulty water pipes. The high ROC AUC indicates its effectiveness in identifying potential problem areas, while the accuracy reflects its overall correctness in classifying pipe statuses. The XG Boost model can be a valuable tool for proactive maintenance and resource allocation, ensuring a reliable water supply for the population.
